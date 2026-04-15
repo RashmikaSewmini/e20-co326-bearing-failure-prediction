@@ -1,0 +1,5 @@
+.DS_Store
+node-red/.npm/
+node-red/node_modules/
+node-red/.config.*
+__pycache__/
